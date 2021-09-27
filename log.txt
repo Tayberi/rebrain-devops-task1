@@ -1,0 +1,8 @@
+61e4bd8 refs/remotes/origin/main@{0}: update by push
+61e4bd8 refs/heads/main@{0}: commit: add README
+61e4bd8 HEAD@{0}: commit: add README
+12cb88a refs/remotes/origin/main@{1}: update by push
+12cb88a refs/heads/main@{1}: Branch: renamed refs/heads/master to refs/heads/main
+12cb88a HEAD@{1}: Branch: renamed refs/heads/master to refs/heads/main
+12cb88a refs/heads/main@{2}: commit (initial): add nginx.conf
+12cb88a HEAD@{3}: commit (initial): add nginx.conf
